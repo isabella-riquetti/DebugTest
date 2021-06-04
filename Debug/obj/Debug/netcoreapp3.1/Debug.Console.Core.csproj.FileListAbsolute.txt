@@ -1,0 +1,12 @@
+C:\Users\Isabella\source\repos\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.Console.Core.exe
+C:\Users\Isabella\source\repos\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.Console.Core.deps.json
+C:\Users\Isabella\source\repos\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.Console.Core.runtimeconfig.json
+C:\Users\Isabella\source\repos\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.Console.Core.runtimeconfig.dev.json
+C:\Users\Isabella\source\repos\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.Console.Core.dll
+C:\Users\Isabella\source\repos\Debug\Debug\bin\Debug\netcoreapp3.1\Debug.Console.Core.pdb
+C:\Users\Isabella\source\repos\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.Console.Core.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\repos\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.Console.Core.AssemblyInfo.cs
+C:\Users\Isabella\source\repos\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.Console.Core.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\repos\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.Console.Core.dll
+C:\Users\Isabella\source\repos\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.Console.Core.pdb
+C:\Users\Isabella\source\repos\Debug\Debug\obj\Debug\netcoreapp3.1\Debug.Console.Core.genruntimeconfig.cache

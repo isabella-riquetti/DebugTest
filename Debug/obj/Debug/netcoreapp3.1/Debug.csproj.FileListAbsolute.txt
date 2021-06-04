@@ -1,0 +1,13 @@
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\bin\Debug\netcoreapp3.1\Debug.exe
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\bin\Debug\netcoreapp3.1\Debug.deps.json
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\bin\Debug\netcoreapp3.1\Debug.runtimeconfig.json
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\bin\Debug\netcoreapp3.1\Debug.runtimeconfig.dev.json
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\bin\Debug\netcoreapp3.1\Debug.dll
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\bin\Debug\netcoreapp3.1\Debug.pdb
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\obj\Debug\netcoreapp3.1\Debug.csprojAssemblyReference.cache
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\obj\Debug\netcoreapp3.1\Debug.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\obj\Debug\netcoreapp3.1\Debug.AssemblyInfo.cs
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\obj\Debug\netcoreapp3.1\Debug.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\obj\Debug\netcoreapp3.1\Debug.dll
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\obj\Debug\netcoreapp3.1\Debug.pdb
+C:\Users\Isabella\source\repos\CodingChallanges\StackOverFlow\obj\Debug\netcoreapp3.1\Debug.genruntimeconfig.cache

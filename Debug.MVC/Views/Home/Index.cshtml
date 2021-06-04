@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@{int i = 0;}
+@foreach (var levelOne in Model)
+{
+    <div class="panel-group" id="accordion_@i">
+        <div class="panel panel-default" id="panel_@i">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a data-toggle="collapse" data-target="#collapseOne_@i" href="#collapseOne_@i">@levelOne.MenuLevel</a>
+                </h4>
+            </div>
+            <div id="collapseOne_@i" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <ul class="" id="id-@levelOne.MenuLevel">
+                        @foreach (var item in levelOne.Items)
+                        {
+                        <li>Nível @levelOne.MenuLevel - Item @item</li>
+                        }
+                    </ul>
+                    <ul class="filter-categories__list">
+                        @foreach (var filter in levelOne.Filters)
+                        {
+                            <li>Nível @levelOne.MenuLevel - Item @filter</li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    i++;
+}
+
+<script>
+    $(document).ready(function () {
+        $('.collapse').on('show.bs.collapse', function () { //Triggered everytime the collapse is show
+            $('.collapse.in').each(function () { //select current collapsed (some versions could be .show instead of .in
+                $(this).collapse('hide'); //hide previously collapsed
+            });
+        });
+    });
+</script>

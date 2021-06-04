@@ -1,0 +1,16 @@
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\Debug.Framework.exe.config
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\Debug.Framework.exe
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\Debug.Framework.pdb
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\DnsClient.dll
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\SharpCompress.dll
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\System.Buffers.dll
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\DnsClient.xml
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\System.Buffers.xml
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\obj\Debug\Debug.Console.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\obj\Debug\Debug.Console.Framework.csproj.CopyComplete
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\obj\Debug\Debug.Framework.exe
+C:\Users\Isabella\source\repos\Debug\Debug.Framework\obj\Debug\Debug.Framework.pdb

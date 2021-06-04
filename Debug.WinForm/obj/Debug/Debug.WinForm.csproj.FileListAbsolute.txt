@@ -1,0 +1,9 @@
+C:\Users\Isabella\source\repos\Debug\Debug.WinForm\bin\Debug\Debug.WinForm.exe.config
+C:\Users\Isabella\source\repos\Debug\Debug.WinForm\bin\Debug\Debug.WinForm.exe
+C:\Users\Isabella\source\repos\Debug\Debug.WinForm\bin\Debug\Debug.WinForm.pdb
+C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.Form1.resources
+C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.Properties.Resources.resources
+C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.csproj.GenerateResource.cache
+C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.exe
+C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.pdb
