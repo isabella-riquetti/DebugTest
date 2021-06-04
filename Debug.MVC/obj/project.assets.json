@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Isabella\\.nuget\\packages\\": {}
+    "C:\\Users\\isabe\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isabella\\source\\repos\\Debug\\Debug.MVC\\Debug.MVC.csproj",
-      "projectName": "Debug.MVC",
-      "projectPath": "C:\\Users\\Isabella\\source\\repos\\Debug\\Debug.MVC\\Debug.MVC.csproj",
-      "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isabella\\source\\repos\\Debug\\Debug.MVC\\obj\\",
+      "projectUniqueName": "C:\\Projects\\Personal\\DebugTest\\Debug.MVC\\MVC.csproj",
+      "projectName": "MVC",
+      "projectPath": "C:\\Projects\\Personal\\DebugTest\\Debug.MVC\\MVC.csproj",
+      "packagesPath": "C:\\Users\\isabe\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Personal\\DebugTest\\Debug.MVC\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Isabella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\isabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

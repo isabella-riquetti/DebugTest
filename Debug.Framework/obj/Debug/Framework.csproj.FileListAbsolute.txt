@@ -1,0 +1,17 @@
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\Debug.Framework.exe.config
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\Debug.Framework.exe
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\Debug.Framework.pdb
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\DnsClient.dll
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\SharpCompress.dll
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\System.Buffers.dll
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\DnsClient.xml
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\System.Buffers.xml
+C:\Projects\Personal\DebugTest\Debug.Framework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Personal\DebugTest\Debug.Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+C:\Projects\Personal\DebugTest\Debug.Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\DebugTest\Debug.Framework\obj\Debug\Framework.csproj.CopyComplete
+C:\Projects\Personal\DebugTest\Debug.Framework\obj\Debug\Debug.Framework.exe
+C:\Projects\Personal\DebugTest\Debug.Framework\obj\Debug\Debug.Framework.pdb

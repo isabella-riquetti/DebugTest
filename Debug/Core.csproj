@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Courses\DelegateTest\" />
+    <Compile Remove="Courses\**" />
+    <EmbeddedResource Remove="Courses\**" />
+    <None Remove="Courses\**" />
   </ItemGroup>
 
 </Project>

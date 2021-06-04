@@ -7,3 +7,13 @@ C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.cspro
 C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.csproj.CoreCompileInputs.cache
 C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.exe
 C:\Users\Isabella\source\repos\Debug\Debug.WinForm\obj\Debug\Debug.WinForm.pdb
+C:\Projects\Personal\DebugTest\Debug.WinForm\bin\Debug\Debug.WinForm.exe.config
+C:\Projects\Personal\DebugTest\Debug.WinForm\bin\Debug\Debug.WinForm.exe
+C:\Projects\Personal\DebugTest\Debug.WinForm\bin\Debug\Debug.WinForm.pdb
+C:\Projects\Personal\DebugTest\Debug.WinForm\obj\Debug\Debug.WinForm.csprojAssemblyReference.cache
+C:\Projects\Personal\DebugTest\Debug.WinForm\obj\Debug\Debug.WinForm.Form1.resources
+C:\Projects\Personal\DebugTest\Debug.WinForm\obj\Debug\Debug.WinForm.Properties.Resources.resources
+C:\Projects\Personal\DebugTest\Debug.WinForm\obj\Debug\Debug.WinForm.csproj.GenerateResource.cache
+C:\Projects\Personal\DebugTest\Debug.WinForm\obj\Debug\Debug.WinForm.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\DebugTest\Debug.WinForm\obj\Debug\Debug.WinForm.exe
+C:\Projects\Personal\DebugTest\Debug.WinForm\obj\Debug\Debug.WinForm.pdb

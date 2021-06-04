@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G71URRXFFarUEB6V7v7aYKlJnz4vj1U+R+kt3D0tKHdoIjVMlVzFzNM2zx2pAQ1D+XyoXnMO7TadLfhm5znqnA==",
+  "dgSpecHash": "vmR3cdlL0JnWa5uWIJlLQ1RQZ10zq4w1IzS3EZm894N5FhxD4+EA1ryXrlTU3Qilh246HlmThtFaQAMb6PGf3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isabella\\source\\repos\\Debug\\Debug\\Debug.Console.Core.csproj",
+  "projectFilePath": "C:\\Projects\\Personal\\DebugTest\\Debug\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

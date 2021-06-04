@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isabella\\source\\repos\\Debug\\Debug\\Debug.Console.Core.csproj": {}
+    "C:\\Projects\\Personal\\DebugTest\\Debug\\Debug.Console.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isabella\\source\\repos\\Debug\\Debug\\Debug.Console.Core.csproj": {
+    "C:\\Projects\\Personal\\DebugTest\\Debug\\Debug.Console.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isabella\\source\\repos\\Debug\\Debug\\Debug.Console.Core.csproj",
+        "projectUniqueName": "C:\\Projects\\Personal\\DebugTest\\Debug\\Debug.Console.Core.csproj",
         "projectName": "Debug.Console.Core",
-        "projectPath": "C:\\Users\\Isabella\\source\\repos\\Debug\\Debug\\Debug.Console.Core.csproj",
-        "packagesPath": "C:\\Users\\Isabella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isabella\\source\\repos\\Debug\\Debug\\obj\\",
+        "projectPath": "C:\\Projects\\Personal\\DebugTest\\Debug\\Debug.Console.Core.csproj",
+        "packagesPath": "C:\\Users\\isabe\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Personal\\DebugTest\\Debug\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Isabella\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\isabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
